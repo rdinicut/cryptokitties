@@ -1,0 +1,53 @@
+.App {
+ 
+}
+
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1px 20px;
+}
+
+.App-header a {
+  text-decoration: none;
+  padding: 0px 10px;
+  color: #000;
+  font-weight: bold;
+
+}
+
+
+.App-logo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.App-logo .icon {
+    width: 3rem;
+    height: 5.4rem;
+    background-image: url(https://www.cryptokitties.co//icons/logo.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+}
+
+
+.App-logo:hover .icon {
+  background-image: url(https://www.cryptokitties.co//icons/logo-hover.gif);
+}
+
+.App-logo h1 {
+  margin-left: 10px;
+  font-size: 1.4rem;
+}
+
+
+
+
+
+
+
+
+

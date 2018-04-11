@@ -1,0 +1,13 @@
+.Web3Unvailable { 
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 500px;
+}
+
+.Web3Unvailable > div {
+    width: 50%;
+    padding: 20px;
+}
+
